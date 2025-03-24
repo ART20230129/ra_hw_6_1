@@ -1,0 +1,10 @@
+#root {
+  max-width: 1280px;
+  margin:  auto;
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  text-align: center;
+}
+
+button{
+  cursor: pointer;
+}

@@ -1,0 +1,27 @@
+.form-container{
+  margin-left: auto;
+  margin-right: auto;
+  width: 600px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+}
+
+.content{
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+}
+
+input{
+  margin-top: 5px;
+  width: 180px;
+  height: 30px;
+}
+
+.form-button{
+  padding: 2px;
+  margin-top: auto;
+  height:36px;
+  width:80px;
+}

@@ -1,0 +1,29 @@
+
+
+.watch{
+  display: grid;
+  grid-template-columns: 180px 20px;
+  width: 210px;
+  margin-top: 10px;
+  border: 2px solid navy;
+  border-radius: 10px;  
+}
+
+.city{
+  font-size:24px;
+  font-style: italic;
+}
+
+.time{
+  font-size: 36px;
+  font-weight: 700;
+}
+
+.watch button{
+  border: 0px solid  #fff;
+  background-color: #fff;
+  width: 20px;
+  height: 20px;
+  padding-left: 5px;
+  padding-top: 5px;
+}
